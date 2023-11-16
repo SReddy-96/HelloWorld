@@ -1,4 +1,4 @@
 # HelloWorld
 First repository 
 
-changing the README filr to practice pull requests
+changing the README file to practice pull requests
